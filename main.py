@@ -3,10 +3,10 @@ from tqdm import tqdm
 import json
 
 #Подключаем яДиск
-y = yadisk.YaDisk(token="y0_AgAAAABk33T_AADLWwAAAADP0R4mdGLnpH3gR0a8dvtGvAxmfqPDS0Q")
+y = yadisk.YaDisk(token="")
 
 #Сюда токен Вк
-access_token = 'vk1.a.4-2onlROBK6fq0U-o8mORaVEwIiMY19uZ7-ahZ1wG45bB_2jUFy4aQifhAmXfbSJRiSzw2mMj_TSpmgCT1mpkwJK9gZb2feySztt26NeKSbUlazbEGTcqHFCK-a9wy37ByTkUCP4ny_RC-1PK7QaI2VUwGKbWmSb8mE7gyzXZSv-TbQ6rOrYj-GgT2sl1x3N'
+access_token = ''
 
 #Ссылка на метод вк
 url = 'https://api.vk.com/method/photos.getAll'
